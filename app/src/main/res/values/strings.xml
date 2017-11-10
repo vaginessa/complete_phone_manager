@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PhoneManager</string>
+
+    <!-- NAVIGATION BAR -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- DEVICE INFO ACTIVIY -->
+    <string name="phoneIdentity_title">Phone general identity</string>
+    <string name="modelName">Model : </string>
+    <string name="serialNumber">Serial Number : </string>
+    <string name="device">Device : </string>
+    <string name="Id">Id : </string>
+    <string name="brand">Brand : </string>
+    <string name="fingerPrint">FingerPrint : </string>
+    <string name="manufacturer">Manufacturer : </string>
+    <string name="bootloader">Bootloader : </string>
+    <string name="imei">IMEI : </string>
+
+
+</resources>
